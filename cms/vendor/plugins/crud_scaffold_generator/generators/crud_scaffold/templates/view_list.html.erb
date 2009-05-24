@@ -1,0 +1,27 @@
+<h1>Listing <%= plural_name.capitalize %></h1>
+
+<div class="list <%= singular_name %>">
+  <table>
+    <tr>
+    <% eval(model_name + '.content_columns').each do |column| -%>
+      <th><%= column.human_name %></th>
+    <% end -%>
+      <th>&nbsp;</th>
+      <th>&nbsp;</th>
+      <th>&nbsp;</th>
+    </tr>
+
+  <%% for <%= singular_name %> in @<%= plural_name %> %>
+    <tr>
+    <% eval(model_name + '.content_columns').each do |column| -%>
+      <td><%%= h(<%= singular_name %>.<%= column.name %>) %></td>
+    <% end -%>
+      <td><%%= link_to('Show', :action => 'show<%= suffix %>', :id => <%= singular_name %>.id) %></td>
+      <td><%%= link_to('Edit', :action => 'edit<%= suffix %>', :id => <%= singular_name %>.id) %></td>
+      <td><%%= link_to('Destroy', {:action => 'destroy<%= suffix %>', :id => <%= singular_name %>.id}, :confirm => 'Are you sure?', :method => :post) %></td>
+    </tr>
+  <%% end %>
+  </table>
+</div>
+
+<%%= link_to('New <%= singular_name.capitalize %>', :action => 'new<%= suffix %>') %>

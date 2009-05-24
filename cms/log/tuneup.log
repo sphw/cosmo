@@ -1,0 +1,701 @@
+# Logfile created on Mon May 11 18:09:12 -0700 2009 by /
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of  for http://0.0.0.0:3000/newrelic using stub 3ea77859fa864cf46ee323ad420d1d9a2b2e88a4
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242090564212_357810
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242090564212_357810 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242090564212_357810 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of  for http://0.0.0.0:3000/pages/edit/1 using stub 49046b467c4d7064ae68e7049d23a8f911e4c7f7
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/update/1 using stub ae026ea21da54897b6be0f7c805c5d815d6d53b4
+FiveRuns TuneUp (v0.8.20): Persisting ae026ea21da54897b6be0f7c805c5d815d6d53b4/1242093369670_42238
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/show/1 using stub 11a8ad306450790b96b4444b38c32540aab69362
+FiveRuns TuneUp (v0.8.20): Persisting 11a8ad306450790b96b4444b38c32540aab69362/1242093370200_377079
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 11a8ad306450790b96b4444b38c32540aab69362/1242093370200_377079 for http://0.0.0.0:3000/pages/show/1 using stub 11a8ad306450790b96b4444b38c32540aab69362
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of  for http://0.0.0.0:3000/pages/ using stub 13eb996afbf1eacff9e74d6bce487ad30ece8959
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/new using stub c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6
+FiveRuns TuneUp (v0.8.20): Persisting c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6/1242093725289_76797
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6/1242093725289_76797 for http://0.0.0.0:3000/pages/new using stub c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/create using stub 3166d431bcded04471d9dd0348f50e24a2e8c17c
+FiveRuns TuneUp (v0.8.20): Persisting 3166d431bcded04471d9dd0348f50e24a2e8c17c/1242093731702_129492
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/list using stub e66e4ba67f2e7e0649520fd667ee5a20fd669242
+FiveRuns TuneUp (v0.8.20): Persisting e66e4ba67f2e7e0649520fd667ee5a20fd669242/1242093732346_507668
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of e66e4ba67f2e7e0649520fd667ee5a20fd669242/1242093732346_507668 for http://0.0.0.0:3000/pages/list using stub e66e4ba67f2e7e0649520fd667ee5a20fd669242
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/new using stub c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6
+FiveRuns TuneUp (v0.8.20): Persisting c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6/1242093742065_36892
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6/1242093742065_36892 for http://0.0.0.0:3000/pages/new using stub c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/create using stub 3166d431bcded04471d9dd0348f50e24a2e8c17c
+FiveRuns TuneUp (v0.8.20): Persisting 3166d431bcded04471d9dd0348f50e24a2e8c17c/1242095058476_38137
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/list using stub e66e4ba67f2e7e0649520fd667ee5a20fd669242
+FiveRuns TuneUp (v0.8.20): Persisting e66e4ba67f2e7e0649520fd667ee5a20fd669242/1242095058831_156049
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of e66e4ba67f2e7e0649520fd667ee5a20fd669242/1242095058831_156049 for http://0.0.0.0:3000/pages/list using stub e66e4ba67f2e7e0649520fd667ee5a20fd669242
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/show/2 using stub ca60602b88fb560141dc291d322685b5140ea0e1
+FiveRuns TuneUp (v0.8.20): Persisting ca60602b88fb560141dc291d322685b5140ea0e1/1242095063550_53463
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of ca60602b88fb560141dc291d322685b5140ea0e1/1242095063550_53463 for http://0.0.0.0:3000/pages/show/2 using stub ca60602b88fb560141dc291d322685b5140ea0e1
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242090564212_357810 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/edit/2 using stub 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3
+FiveRuns TuneUp (v0.8.20): Persisting 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3/1242138688673_1171118
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/edit/2 using stub 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3
+FiveRuns TuneUp (v0.8.20): Persisting 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3/1242138756746_188946
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3/1242138756746_188946 for http://0.0.0.0:3000/pages/edit/2 using stub 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/edit/2 using stub 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3
+FiveRuns TuneUp (v0.8.20): Persisting 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3/1242139539330_1914801
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/edit/2 using stub 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3
+FiveRuns TuneUp (v0.8.20): Persisting 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3/1242139977074_1081468
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/edit/2 using stub 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3
+FiveRuns TuneUp (v0.8.20): Persisting 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3/1242168336047_213230
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3/1242168336047_213230 for http://0.0.0.0:3000/pages/edit/2 using stub 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242090564212_357810 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/new using stub c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6
+FiveRuns TuneUp (v0.8.20): Persisting c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6/1242263202036_290748
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6/1242263202036_290748 for http://0.0.0.0:3000/pages/new using stub c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/create using stub 3166d431bcded04471d9dd0348f50e24a2e8c17c
+FiveRuns TuneUp (v0.8.20): Persisting 3166d431bcded04471d9dd0348f50e24a2e8c17c/1242263236185_143947
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/list using stub e66e4ba67f2e7e0649520fd667ee5a20fd669242
+FiveRuns TuneUp (v0.8.20): Persisting e66e4ba67f2e7e0649520fd667ee5a20fd669242/1242263237444_855471
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of e66e4ba67f2e7e0649520fd667ee5a20fd669242/1242263237444_855471 for http://0.0.0.0:3000/pages/list using stub e66e4ba67f2e7e0649520fd667ee5a20fd669242
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/new using stub c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6
+FiveRuns TuneUp (v0.8.20): Persisting c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6/1242263269728_94939
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242263270643_152437
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242263270643_152437 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242263275959_75292
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242263275959_75292 for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242263286622_111593
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242263286622_111593 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242263288852_98086
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242263288852_98086 for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242263587518_68427
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242263587518_68427 for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242263605753_66084
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242263605753_66084 for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242263622019_75263
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242263622019_75263 for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242263622019_75263 for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242308489822_235528
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242308489822_235528 for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242308498948_261734
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242308498948_261734 for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242308504001_685324
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242308504347_65520
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242308504347_65520 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242308589292_94212
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242308589292_94212 for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242308591455_89832
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242308591455_89832 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242308592795_67449
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242308592795_67449 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242308594649_72550
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242308594649_72550 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242308656389_139598
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4/1242308656389_139598 for http://0.0.0.0:3000/main using stub e0bafeaa2a0ba825e28b48e91fa5b5ca400a42b4
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/1 using stub 3d659906599e994c3f065ea7f8b782eba7a1aa4f
+FiveRuns TuneUp (v0.8.20): Persisting 3d659906599e994c3f065ea7f8b782eba7a1aa4f/1242308662147_235659
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242308672878_61774
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242308672878_61774 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242308796943_78427
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242308796943_78427 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242308799651_79864
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242308799651_79864 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242308812147_85402
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242308812147_85402 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242309012323_613794
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242309036757_91243
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242309036757_91243 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242309043188_66334
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242309043188_66334 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/show/1 using stub 11a8ad306450790b96b4444b38c32540aab69362
+FiveRuns TuneUp (v0.8.20): Persisting 11a8ad306450790b96b4444b38c32540aab69362/1242309048739_79705
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 11a8ad306450790b96b4444b38c32540aab69362/1242309048739_79705 for http://0.0.0.0:3000/pages/show/1 using stub 11a8ad306450790b96b4444b38c32540aab69362
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/show/1 using stub 11a8ad306450790b96b4444b38c32540aab69362
+FiveRuns TuneUp (v0.8.20): Persisting 11a8ad306450790b96b4444b38c32540aab69362/1242309054511_70441
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 11a8ad306450790b96b4444b38c32540aab69362/1242309054511_70441 for http://0.0.0.0:3000/pages/show/1 using stub 11a8ad306450790b96b4444b38c32540aab69362
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242309061482_67832
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242309061482_67832 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/edit/1 using stub 49046b467c4d7064ae68e7049d23a8f911e4c7f7
+FiveRuns TuneUp (v0.8.20): Persisting 49046b467c4d7064ae68e7049d23a8f911e4c7f7/1242309075934_427278
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 49046b467c4d7064ae68e7049d23a8f911e4c7f7/1242309075934_427278 for http://0.0.0.0:3000/pages/edit/1 using stub 49046b467c4d7064ae68e7049d23a8f911e4c7f7
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242309172402_214857
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242309172402_214857 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/new using stub c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6
+FiveRuns TuneUp (v0.8.20): Persisting c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6/1242309184589_99243
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6/1242309184589_99243 for http://0.0.0.0:3000/pages/new using stub c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/create using stub 3166d431bcded04471d9dd0348f50e24a2e8c17c
+FiveRuns TuneUp (v0.8.20): Persisting 3166d431bcded04471d9dd0348f50e24a2e8c17c/1242309385816_95633
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/list using stub e66e4ba67f2e7e0649520fd667ee5a20fd669242
+FiveRuns TuneUp (v0.8.20): Persisting e66e4ba67f2e7e0649520fd667ee5a20fd669242/1242309386254_69224
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of e66e4ba67f2e7e0649520fd667ee5a20fd669242/1242309386254_69224 for http://0.0.0.0:3000/pages/list using stub e66e4ba67f2e7e0649520fd667ee5a20fd669242
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242309418101_496428
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242309484567_635354
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242309495655_77971
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242309495655_77971 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242309545548_586241
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242309558264_72519
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242309558264_72519 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242309779863_60942
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242309779863_60942 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242309036757_91243 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242311723081_64527
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242311723081_64527 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242311724560_71051
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242311724560_71051 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242311725668_58530
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242311725668_58530 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242311731322_77464
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242311731322_77464 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242311733221_61861
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242311733221_61861 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242311733221_61861 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242343335374_55463
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242343335374_55463 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242309558264_72519 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242345699239_56352
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242345699239_56352 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242345716191_58817
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242345716191_58817 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242345807465_55495
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242345807465_55495 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242345821799_58074
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242345821799_58074 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242350800037_76864
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242350800037_76864 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242350818661_57182
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242350818661_57182 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242350920335_774350
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242351035922_569576
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242351094764_61719
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242351094764_61719 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242351140696_59254
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242351140696_59254 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242351229814_62249
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242351229814_62249 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242351286214_68061
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242351286214_68061 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242351522812_152746
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242351522812_152746 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351576937_169210
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351576937_169210 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242351578880_44963
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242351578880_44963 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242351624529_47126
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242351624529_47126 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242351775259_50114
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242351775259_50114 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351778024_47605
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351778024_47605 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351793380_49712
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351793380_49712 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351795047_46107
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351795047_46107 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242351796288_53756
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242351796288_53756 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242351866221_49881
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242351866221_49881 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351911512_45970
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351911512_45970 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351918213_47616
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351918213_47616 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351946132_48276
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351946132_48276 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351948710_48292
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351948710_48292 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351949607_47036
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242351949607_47036 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242352028498_48852
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242352028498_48852 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242352059925_53292
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242352059925_53292 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242353194315_70142
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242353194315_70142 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242353219744_49754
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242353219744_49754 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242356077735_86558
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242356077735_86558 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242356107854_59597
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242356107854_59597 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242356286736_53278
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242356286736_53278 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/edit/2 using stub 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3
+FiveRuns TuneUp (v0.8.20): Persisting 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3/1242356289335_195436
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3/1242356289335_195436 for http://0.0.0.0:3000/pages/edit/2 using stub 67697aa3d2d351731bf9c8e3b36d5bb32dfe82c3
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/update/2 using stub 6ebdc341267a2811eef9dc56ba1706916d778313
+FiveRuns TuneUp (v0.8.20): Persisting 6ebdc341267a2811eef9dc56ba1706916d778313/1242356386669_300884
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/show/2 using stub ca60602b88fb560141dc291d322685b5140ea0e1
+FiveRuns TuneUp (v0.8.20): Persisting ca60602b88fb560141dc291d322685b5140ea0e1/1242356387234_74500
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of ca60602b88fb560141dc291d322685b5140ea0e1/1242356387234_74500 for http://0.0.0.0:3000/pages/show/2 using stub ca60602b88fb560141dc291d322685b5140ea0e1
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/show/2 using stub ca60602b88fb560141dc291d322685b5140ea0e1
+FiveRuns TuneUp (v0.8.20): Persisting ca60602b88fb560141dc291d322685b5140ea0e1/1242357110668_70951
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of ca60602b88fb560141dc291d322685b5140ea0e1/1242357110668_70951 for http://0.0.0.0:3000/pages/show/2 using stub ca60602b88fb560141dc291d322685b5140ea0e1
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/show/2 using stub ca60602b88fb560141dc291d322685b5140ea0e1
+FiveRuns TuneUp (v0.8.20): Persisting ca60602b88fb560141dc291d322685b5140ea0e1/1242357121256_86625
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of ca60602b88fb560141dc291d322685b5140ea0e1/1242357121256_86625 for http://0.0.0.0:3000/pages/show/2 using stub ca60602b88fb560141dc291d322685b5140ea0e1
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242392985897_110755
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242392985897_110755 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242392990295_208014
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242392990295_208014 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242393536878_80430
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242393536878_80430 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242393584636_76187
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 7a1ac583eece510703bfa28dfe1b9db10259257b/1242393584636_76187 for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of  for http://0.0.0.0:3000/user_sessions/new using stub 893182e2df07977455165423b33fd608dafabe24
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/user_sessions/new using stub 893182e2df07977455165423b33fd608dafabe24
+FiveRuns TuneUp (v0.8.20): Persisting 893182e2df07977455165423b33fd608dafabe24/1242479776055_396701
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 893182e2df07977455165423b33fd608dafabe24/1242479776055_396701 for http://0.0.0.0:3000/user_sessions/new using stub 893182e2df07977455165423b33fd608dafabe24
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/user_sessions/new using stub 893182e2df07977455165423b33fd608dafabe24
+FiveRuns TuneUp (v0.8.20): Persisting 893182e2df07977455165423b33fd608dafabe24/1242479919273_125181
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 893182e2df07977455165423b33fd608dafabe24/1242479919273_125181 for http://0.0.0.0:3000/user_sessions/new using stub 893182e2df07977455165423b33fd608dafabe24
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/user_sessions/new using stub 893182e2df07977455165423b33fd608dafabe24
+FiveRuns TuneUp (v0.8.20): Persisting 893182e2df07977455165423b33fd608dafabe24/1242479952763_270068
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 893182e2df07977455165423b33fd608dafabe24/1242479952763_270068 for http://0.0.0.0:3000/user_sessions/new using stub 893182e2df07977455165423b33fd608dafabe24
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/2 using stub 7a1ac583eece510703bfa28dfe1b9db10259257b
+FiveRuns TuneUp (v0.8.20): Persisting 7a1ac583eece510703bfa28dfe1b9db10259257b/1242480986006_503814
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/ using stub fa4e565a5c09c90bb6cbea5826e7a5f44dcdd863
+FiveRuns TuneUp (v0.8.20): Persisting fa4e565a5c09c90bb6cbea5826e7a5f44dcdd863/1242481356355_1110827
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242481720270_368423
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242481720270_368423 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242481818039_153104
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242481818039_153104 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242481914990_168375
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242481914990_168375 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242481972510_81617
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242481972510_81617 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482008649_82158
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482008649_82158 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482151945_123428
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482151945_123428 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482169001_76843
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482169001_76843 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482201077_79155
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482201077_79155 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482213131_76429
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482213131_76429 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482664412_100383
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482664412_100383 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482715574_88665
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482715574_88665 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482723102_84258
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482723102_84258 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482735046_79099
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482735046_79099 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482783344_99223
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482783344_99223 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482833700_87028
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482833700_87028 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482995977_127015
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242482995977_127015 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242483186182_113279
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242483186182_113279 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242483221806_143023
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242483221806_143023 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242483233778_135006
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242483233778_135006 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242483249537_348410
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242483249537_348410 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/new using stub c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6
+FiveRuns TuneUp (v0.8.20): Persisting c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6/1242483262202_1578497
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242483249537_348410 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/new using stub c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6
+FiveRuns TuneUp (v0.8.20): Persisting c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6/1242485153514_168584
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6/1242485153514_168584 for http://0.0.0.0:3000/pages/new using stub c994cbc27e42ce0dc17ae71d8eeacc7b980d3eb6
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/create using stub 3166d431bcded04471d9dd0348f50e24a2e8c17c
+FiveRuns TuneUp (v0.8.20): Persisting 3166d431bcded04471d9dd0348f50e24a2e8c17c/1242485169848_99557
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/list using stub e66e4ba67f2e7e0649520fd667ee5a20fd669242
+FiveRuns TuneUp (v0.8.20): Persisting e66e4ba67f2e7e0649520fd667ee5a20fd669242/1242485171427_1207818
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of e66e4ba67f2e7e0649520fd667ee5a20fd669242/1242485171427_1207818 for http://0.0.0.0:3000/pages/list using stub e66e4ba67f2e7e0649520fd667ee5a20fd669242
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/edit/1 using stub 49046b467c4d7064ae68e7049d23a8f911e4c7f7
+FiveRuns TuneUp (v0.8.20): Persisting 49046b467c4d7064ae68e7049d23a8f911e4c7f7/1242485207091_300776
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 49046b467c4d7064ae68e7049d23a8f911e4c7f7/1242485207091_300776 for http://0.0.0.0:3000/pages/edit/1 using stub 49046b467c4d7064ae68e7049d23a8f911e4c7f7
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/update/1 using stub ae026ea21da54897b6be0f7c805c5d815d6d53b4
+FiveRuns TuneUp (v0.8.20): Persisting ae026ea21da54897b6be0f7c805c5d815d6d53b4/1242485243198_151357
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages/show/1 using stub 11a8ad306450790b96b4444b38c32540aab69362
+FiveRuns TuneUp (v0.8.20): Persisting 11a8ad306450790b96b4444b38c32540aab69362/1242485243902_154915
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 11a8ad306450790b96b4444b38c32540aab69362/1242485243902_154915 for http://0.0.0.0:3000/pages/show/1 using stub 11a8ad306450790b96b4444b38c32540aab69362
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242485274193_143957
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242485274193_143957 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242485500198_87021
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242485500198_87021 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/users using stub e30afdb765104fb0a2d694217e8d41cf5465f6fd
+FiveRuns TuneUp (v0.8.20): Persisting e30afdb765104fb0a2d694217e8d41cf5465f6fd/1242485778960_133224
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/users/new using stub 75b22db6e42e2bf7b5e1eeff4c472b954919636c
+FiveRuns TuneUp (v0.8.20): Persisting 75b22db6e42e2bf7b5e1eeff4c472b954919636c/1242485786396_663863
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/users/new using stub 75b22db6e42e2bf7b5e1eeff4c472b954919636c
+FiveRuns TuneUp (v0.8.20): Persisting 75b22db6e42e2bf7b5e1eeff4c472b954919636c/1242485811011_802834
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/users/new using stub 75b22db6e42e2bf7b5e1eeff4c472b954919636c
+FiveRuns TuneUp (v0.8.20): Persisting 75b22db6e42e2bf7b5e1eeff4c472b954919636c/1242485971833_798816
+FiveRuns TuneUp (v0.8.20): Persisting for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Persisting 45e3d58bdc0593c8b16e44054261e2797930d69d/1242486484055_234693
+FiveRuns TuneUp (v0.8.20): Inserted asset tags
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 45e3d58bdc0593c8b16e44054261e2797930d69d/1242486484055_234693 for http://0.0.0.0:3000/pages using stub 45e3d58bdc0593c8b16e44054261e2797930d69d
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Could not find closing </head> tag for insertion
+FiveRuns TuneUp (v0.8.20): Retrieved last run id of 520003788b53e08efcc8d7c47927f6e32aad6a8a/1242485500198_87021 for http://0.0.0.0:3000/main/show/1 using stub 520003788b53e08efcc8d7c47927f6e32aad6a8a
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.
+FiveRuns TuneUp (v0.8.20): Rails version 2.3.2 is supported, loading...
+FiveRuns TuneUp (v0.8.20): Started.

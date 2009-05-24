@@ -1,0 +1,26 @@
+CRUD Scaffold Generator
+=======================
+
+Description:
+
+The CRUD Scaffold generator creates the model, controller and views to interact with a database table.  It is similar to the scaffold generator ("script/generate scaffold ...") that was included with Rails versions prior to 2.1.
+
+Unlike the original scaffold generator, CRUD Scaffold generated views are not dynamic. Instead they use the database schema information at the time they are generated to create views which reference fields in the database table. Fields added to the table after the scaffold has been generated WILL NOT appear in the views--the fields must be added by hand. Therefore it is advisable to create/migrate your table schema before generating the scaffold.
+
+The CRUD Scaffold generator takes a model name, an optional controller name, and a list of views as arguments.  Scaffolded actions and views are created automatically.  Any views left over generate empty stubs.
+
+The scaffolded actions and views are:
+  index, list, show, new, create, edit, update, destroy
+
+If a controller name is not given, the plural form of the model name will be used.  The model and controller names may be given in CamelCase or under_score and should not be suffixed with 'Model' or 'Controller'.
+
+Installation:
+
+Simply drop the entire "crud_scaffold_generator" folder into the /plugins folder of any Rails application and you'll be ready to use it to generate basic scaffolding.
+
+
+Example:
+
+    ruby script/generate crud_scaffold Account Bank debit credit
+
+This will generate an Account model and BankController with a full test suite and a basic user interface.

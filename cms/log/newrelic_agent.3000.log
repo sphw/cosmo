@@ -1,0 +1,91 @@
+# Logfile created on Mon May 11 17:59:07 -0700 2009 by /
+[05/11/09 17:59:07 (21845)] INFO : Runtime environment: mongrel
+[05/11/09 17:59:07 (21845)] INFO : Error collector is enabled in agent config
+[05/11/09 17:59:07 (21845)] INFO : Transaction tracing is enabled in agent config
+[05/11/09 17:59:07 (21845)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 21845, handler = mongrel
+[05/11/09 17:59:07 (21845)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/11/09 18:09:13 (21865)] INFO : Runtime environment: mongrel
+[05/11/09 18:09:13 (21865)] INFO : Error collector is enabled in agent config
+[05/11/09 18:09:13 (21865)] INFO : Transaction tracing is enabled in agent config
+[05/11/09 18:09:13 (21865)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 21865, handler = mongrel
+[05/11/09 18:09:13 (21865)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/11/09 18:20:49 (21882)] INFO : Runtime environment: mongrel
+[05/11/09 18:20:49 (21882)] INFO : Error collector is enabled in agent config
+[05/11/09 18:20:49 (21882)] INFO : Transaction tracing is enabled in agent config
+[05/11/09 18:20:49 (21882)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 21882, handler = mongrel
+[05/11/09 18:20:49 (21882)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/11/09 18:23:10 (21909)] INFO : Runtime environment: mongrel
+[05/11/09 18:23:10 (21909)] INFO : Error collector is enabled in agent config
+[05/11/09 18:23:10 (21909)] INFO : Transaction tracing is enabled in agent config
+[05/11/09 18:23:10 (21909)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 21909, handler = mongrel
+[05/11/09 18:23:10 (21909)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/11/09 18:54:55 (21978)] INFO : Runtime environment: mongrel
+[05/11/09 18:54:56 (21978)] INFO : Error collector is enabled in agent config
+[05/11/09 18:54:56 (21978)] INFO : Transaction tracing is enabled in agent config
+[05/11/09 18:54:56 (21978)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 21978, handler = mongrel
+[05/11/09 18:54:56 (21978)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/11/09 18:56:02 (21979)] INFO : Runtime environment: mongrel
+[05/11/09 18:56:02 (21979)] INFO : Error collector is enabled in agent config
+[05/11/09 18:56:02 (21979)] INFO : Transaction tracing is enabled in agent config
+[05/11/09 18:56:03 (21979)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 21979, handler = mongrel
+[05/11/09 18:56:03 (21979)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/11/09 19:01:43 (22076)] INFO : Runtime environment: mongrel
+[05/11/09 19:01:43 (22076)] INFO : Error collector is enabled in agent config
+[05/11/09 19:01:43 (22076)] INFO : Transaction tracing is enabled in agent config
+[05/11/09 19:01:43 (22076)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 22076, handler = mongrel
+[05/11/09 19:01:43 (22076)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/12/09 07:30:41 (23780)] INFO : Runtime environment: mongrel
+[05/12/09 07:30:41 (23780)] INFO : Error collector is enabled in agent config
+[05/12/09 07:30:41 (23780)] INFO : Transaction tracing is enabled in agent config
+[05/12/09 07:30:41 (23780)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 23780, handler = mongrel
+[05/12/09 07:30:41 (23780)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/12/09 16:52:08 (25086)] INFO : Runtime environment: mongrel
+[05/12/09 16:52:08 (25086)] INFO : Error collector is enabled in agent config
+[05/12/09 16:52:08 (25086)] INFO : Transaction tracing is enabled in agent config
+[05/12/09 16:52:08 (25086)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 25086, handler = mongrel
+[05/12/09 16:52:08 (25086)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/13/09 16:38:49 (78760)] INFO : Runtime environment: mongrel
+[05/13/09 16:38:49 (78760)] INFO : Error collector is enabled in agent config
+[05/13/09 16:38:49 (78760)] INFO : Transaction tracing is enabled in agent config
+[05/13/09 16:38:50 (78760)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 78760, handler = mongrel
+[05/13/09 16:38:50 (78760)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/13/09 18:06:23 (79065)] INFO : Runtime environment: mongrel
+[05/13/09 18:06:23 (79065)] INFO : Error collector is enabled in agent config
+[05/13/09 18:06:23 (79065)] INFO : Transaction tracing is enabled in agent config
+[05/13/09 18:06:23 (79065)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 79065, handler = mongrel
+[05/13/09 18:06:23 (79065)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/14/09 06:41:06 (5499)] INFO : Runtime environment: mongrel
+[05/14/09 06:41:06 (5499)] INFO : Error collector is enabled in agent config
+[05/14/09 06:41:06 (5499)] INFO : Transaction tracing is enabled in agent config
+[05/14/09 06:41:07 (5499)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 5499, handler = mongrel
+[05/14/09 06:41:07 (5499)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/14/09 07:34:39 (8888)] INFO : Runtime environment: mongrel
+[05/14/09 07:34:39 (8888)] INFO : Error collector is enabled in agent config
+[05/14/09 07:34:39 (8888)] INFO : Transaction tracing is enabled in agent config
+[05/14/09 07:34:39 (8888)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 8888, handler = mongrel
+[05/14/09 07:34:39 (8888)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/14/09 16:20:50 (13280)] INFO : Runtime environment: mongrel
+[05/14/09 16:20:50 (13280)] INFO : Error collector is enabled in agent config
+[05/14/09 16:20:50 (13280)] INFO : Transaction tracing is enabled in agent config
+[05/14/09 16:20:50 (13280)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 13280, handler = mongrel
+[05/14/09 16:20:50 (13280)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/14/09 16:58:33 (346)] INFO : Runtime environment: mongrel
+[05/14/09 16:58:33 (346)] INFO : Error collector is enabled in agent config
+[05/14/09 16:58:33 (346)] INFO : Transaction tracing is enabled in agent config
+[05/14/09 16:58:33 (346)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 346, handler = mongrel
+[05/14/09 16:58:33 (346)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/16/09 05:54:58 (7374)] INFO : Runtime environment: mongrel
+[05/16/09 05:54:58 (7374)] INFO : Error collector is enabled in agent config
+[05/16/09 05:54:58 (7374)] INFO : Transaction tracing is enabled in agent config
+[05/16/09 05:54:59 (7374)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 7374, handler = mongrel
+[05/16/09 05:54:59 (7374)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/16/09 07:38:08 (8454)] INFO : Runtime environment: mongrel
+[05/16/09 07:38:08 (8454)] INFO : Error collector is enabled in agent config
+[05/16/09 07:38:08 (8454)] INFO : Transaction tracing is enabled in agent config
+[05/16/09 07:38:08 (8454)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 8454, handler = mongrel
+[05/16/09 07:38:08 (8454)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log
+[05/16/09 08:09:01 (8738)] INFO : Runtime environment: mongrel
+[05/16/09 08:09:01 (8738)] INFO : Error collector is enabled in agent config
+[05/16/09 08:09:01 (8738)] INFO : Transaction tracing is enabled in agent config
+[05/16/09 08:09:01 (8738)] INFO : New Relic RPM Agent 2.8.10 Initialized: pid = 8738, handler = mongrel
+[05/16/09 08:09:01 (8738)] INFO : Agent Log is found in /Users/sascha/Sites/cms/log/newrelic_agent.3000.log

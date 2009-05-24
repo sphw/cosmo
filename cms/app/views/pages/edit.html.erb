@@ -1,0 +1,11 @@
+<h1>Editing Page</h1>
+
+<div class="edit page">
+<% form_tag(:action => 'update', :id => @page.id) do -%>
+  <%= render(:partial => 'form') %>
+  <%= submit_tag('Edit Page') %>
+<% end -%>
+</div>
+
+<%= link_to('Show', :action => 'show', :id => @page.id) %> |
+<%= link_to('Back', :action => 'list') %>

@@ -1,0 +1,10 @@
+<h1>New Page</h1>
+
+<div class="new page">
+  <% form_tag(:action => 'create') do -%>
+    <%= render(:partial => 'form') %>
+    <%= submit_tag("Create Page") %>
+  <% end -%>
+</div>
+
+<%= link_to('Back', :action => 'list') %>

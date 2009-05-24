@@ -1,0 +1,29 @@
+<h1>Listing Pages</h1>
+
+<div class="list page">
+  <table>
+    <tr>
+          <th>Name</th>
+          <th>Content</th>
+          <th>Updated at</th>
+          <th>Created at</th>
+          <th>&nbsp;</th>
+      <th>&nbsp;</th>
+      <th>&nbsp;</th>
+    </tr>
+
+  <% for page in @pages %>
+    <tr>
+          <td><%= h(page.name) %></td>
+          <td><%= h(page.content) %></td>
+          <td><%= h(page.updated_at) %></td>
+          <td><%= h(page.created_at) %></td>
+          <td><%= link_to('Show', :action => 'show', :id => page.id) %></td>
+      <td><%= link_to('Edit', :action => 'edit', :id => page.id) %></td>
+      <td><%= link_to('Destroy', {:action => 'destroy', :id => page.id}, :confirm => 'Are you sure?', :method => :post) %></td>
+    </tr>
+  <% end %>
+  </table>
+</div>
+
+<%= link_to('New Page', :action => 'new') %>

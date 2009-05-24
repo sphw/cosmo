@@ -1,0 +1,39 @@
+/* CRUD Scaffold styles */
+
+html { height: 100%; width: 100%; }
+body { width: 980px; height: 100%; margin: 0; padding: 1em 20px; border: 0;
+  font: 13px/18px Verdana,Arial,Helvetica,sans-serif;
+  background: #FFFFFF; color: #333333; }
+
+p, td, ul, ol, li, dl, dt, dd {
+  font: 13px/18px Verdana,Arial,Helvetica,sans-serif; }
+iframe { margin: 0; padding: 0; border: none; }
+img { border: none; }
+pre { background-color: #EEEEEE; padding: 10px; font-size: 11px; }
+table, tr, td, th { border-collapse: collapse; vertical-align: top; }
+
+a { color: #000000; }
+a:visited { color: #666666; }
+a:hover { background:#000000; color: #FFFFFF; }
+
+.flash-notice { color: green; }
+
+.fieldWithErrors { padding: 2px; background-color: red; display: table; }
+
+#errorExplanation { width: 400px; padding: 7px; padding-bottom: 12px;
+  margin-bottom: 20px; border: 2px solid red; background-color: #F0F0F0; }
+#errorExplanation h2 { text-align: left; font-weight: bold; font-size: 12px;
+  padding: 5px 5px 5px 15px; margin: -7px;
+  background-color: #CC0000; color: #FFFFFF; }
+#errorExplanation p { color: #333333; margin-bottom: 0; padding: 5px; }
+#errorExplanation ul li { font-size: 12px; list-style: square; }
+
+
+/* A few extra styles to make the scaffold tables look nicer */
+
+table tr td { padding: 4px; border: 1px solid #CCCCCC; }
+table tr th { text-align: left; padding: 4px;
+  border: 1px solid #FFFFFF; background: #666666; color: #FFFFFF; }
+
+div.list, div.show, div.new, div.edit { margin-bottom: 1em; }
+div.edit form table, div.new form table { margin-bottom: 1em; }

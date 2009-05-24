@@ -1,0 +1,10 @@
+<h1>New <%= singular_name.capitalize %></h1>
+
+<div class="new <%= singular_name %>">
+  <%% form_tag(:action => 'create<%= @suffix %>') do -%>
+    <%%= render(:partial => 'form') %>
+    <%%= submit_tag("Create <%= singular_name.capitalize %>") %>
+  <%% end -%>
+</div>
+
+<%%= link_to('Back', :action => 'list<%= suffix %>') %>

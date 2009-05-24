@@ -1,0 +1,15 @@
+<%= error_messages_for('page') %>
+
+<!--[form:page]-->
+<table>
+    <tr>
+    <th><label for="page_name">Name:</label></th>
+    <td><%= text_field('page', 'name' , {:limit=>255}) %></td>
+  </tr>
+  <tr>
+    <th><label for="page_content">Content:</label></th>
+    <td><%= text_area('page', 'content' , {:limit=>nil}) %></td>
+  </tr>
+
+</table><!--[eoform:page]-->
+

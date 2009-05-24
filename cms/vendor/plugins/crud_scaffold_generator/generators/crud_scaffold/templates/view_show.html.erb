@@ -1,0 +1,15 @@
+<h1>Viewing <%= singular_name.capitalize %></h1>
+
+<div class="show <%= singular_name %>">
+  <table>
+  <% eval(model_name + '.content_columns').each do |column| -%>
+    <tr>
+      <th><%= column.human_name %>:</th>
+      <td><%%= h(@<%= singular_name %>.<%= column.name %>) %></td>
+    </tr>
+  <% end -%>
+  </table>
+</div>
+
+<%%= link_to('Edit', :action => 'edit<%= suffix %>', :id => @<%= singular_name %>.id) %> |
+<%%= link_to('Back', :action => 'list<%= suffix %>') %>
